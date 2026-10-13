@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0",
+  "build": 1,
+  "notes": "Downloader iPhone 首个版本。个人签名安装，更新时需要重新签名。",
+  "distributionURL": "https://github.com/f3271174706-tech/Downloader-iOS/releases/tag/ios-v0.1.0"
+}
